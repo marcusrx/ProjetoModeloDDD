@@ -1,0 +1,15 @@
+c:\users\marcus.bahia\documents\visual studio 2015\Projects\ProjetoModeloDDD\ProjetoModelo.Domain\bin\Debug\ProjetoModelo.Domain.dll
+c:\users\marcus.bahia\documents\visual studio 2015\Projects\ProjetoModeloDDD\ProjetoModelo.Domain\bin\Debug\ProjetoModelo.Domain.pdb
+c:\users\marcus.bahia\documents\visual studio 2015\Projects\ProjetoModeloDDD\ProjetoModelo.Domain\obj\Debug\ProjetoModelo.Domain.dll
+c:\users\marcus.bahia\documents\visual studio 2015\Projects\ProjetoModeloDDD\ProjetoModelo.Domain\obj\Debug\ProjetoModelo.Domain.pdb
+C:\Users\marcus.bahia\Documents\Visual Studio 2015\Projects\ProjetoModeloDDD\ProjetoModelo.Domain\obj\Debug\ProjetoModelo.Domain.csprojResolveAssemblyReference.cache
+C:\Users\WarleY\Desktop\ProjetoModeloDDD\ProjetoModelo.Domain\bin\Debug\ProjetoModelo.Domain.dll
+C:\Users\WarleY\Desktop\ProjetoModeloDDD\ProjetoModelo.Domain\bin\Debug\ProjetoModelo.Domain.pdb
+C:\Users\WarleY\Desktop\ProjetoModeloDDD\ProjetoModelo.Domain\obj\Debug\ProjetoModelo.Domain.csprojResolveAssemblyReference.cache
+C:\Users\WarleY\Desktop\ProjetoModeloDDD\ProjetoModelo.Domain\obj\Debug\ProjetoModelo.Domain.dll
+C:\Users\WarleY\Desktop\ProjetoModeloDDD\ProjetoModelo.Domain\obj\Debug\ProjetoModelo.Domain.pdb
+C:\Users\marcus.bahia\Desktop\ProjetoModelDDD vII\ProjetoModeloDDD\ProjetoModelo.Domain\bin\Debug\ProjetoModelo.Domain.dll
+C:\Users\marcus.bahia\Desktop\ProjetoModelDDD vII\ProjetoModeloDDD\ProjetoModelo.Domain\bin\Debug\ProjetoModelo.Domain.pdb
+C:\Users\marcus.bahia\Desktop\ProjetoModelDDD vII\ProjetoModeloDDD\ProjetoModelo.Domain\obj\Debug\ProjetoModelo.Domain.csprojResolveAssemblyReference.cache
+C:\Users\marcus.bahia\Desktop\ProjetoModelDDD vII\ProjetoModeloDDD\ProjetoModelo.Domain\obj\Debug\ProjetoModelo.Domain.dll
+C:\Users\marcus.bahia\Desktop\ProjetoModelDDD vII\ProjetoModeloDDD\ProjetoModelo.Domain\obj\Debug\ProjetoModelo.Domain.pdb

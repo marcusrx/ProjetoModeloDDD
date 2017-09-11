@@ -1,0 +1,36 @@
+c:\users\marcus.bahia\documents\visual studio 2015\Projects\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Infra.Data.dll.config
+c:\users\marcus.bahia\documents\visual studio 2015\Projects\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Infra.Data.dll
+c:\users\marcus.bahia\documents\visual studio 2015\Projects\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Infra.Data.pdb
+c:\users\marcus.bahia\documents\visual studio 2015\Projects\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\EntityFramework.dll
+c:\users\marcus.bahia\documents\visual studio 2015\Projects\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\marcus.bahia\documents\visual studio 2015\Projects\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModelo.Domain.dll
+c:\users\marcus.bahia\documents\visual studio 2015\Projects\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModelo.Domain.pdb
+c:\users\marcus.bahia\documents\visual studio 2015\Projects\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\EntityFramework.xml
+c:\users\marcus.bahia\documents\visual studio 2015\Projects\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\marcus.bahia\documents\visual studio 2015\Projects\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.csprojResolveAssemblyReference.cache
+c:\users\marcus.bahia\documents\visual studio 2015\Projects\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.dll
+c:\users\marcus.bahia\documents\visual studio 2015\Projects\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.pdb
+C:\Users\WarleY\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Infra.Data.dll.config
+C:\Users\WarleY\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Infra.Data.dll
+C:\Users\WarleY\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Infra.Data.pdb
+C:\Users\WarleY\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\WarleY\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\WarleY\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModelo.Domain.dll
+C:\Users\WarleY\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModelo.Domain.pdb
+C:\Users\WarleY\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\WarleY\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\WarleY\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.csprojResolveAssemblyReference.cache
+C:\Users\WarleY\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.dll
+C:\Users\WarleY\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.pdb
+C:\Users\marcus.bahia\Desktop\ProjetoModelDDD vII\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Infra.Data.dll.config
+C:\Users\marcus.bahia\Desktop\ProjetoModelDDD vII\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Infra.Data.dll
+C:\Users\marcus.bahia\Desktop\ProjetoModelDDD vII\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Infra.Data.pdb
+C:\Users\marcus.bahia\Desktop\ProjetoModelDDD vII\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\marcus.bahia\Desktop\ProjetoModelDDD vII\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\marcus.bahia\Desktop\ProjetoModelDDD vII\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModelo.Domain.dll
+C:\Users\marcus.bahia\Desktop\ProjetoModelDDD vII\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModelo.Domain.pdb
+C:\Users\marcus.bahia\Desktop\ProjetoModelDDD vII\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\marcus.bahia\Desktop\ProjetoModelDDD vII\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\marcus.bahia\Desktop\ProjetoModelDDD vII\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.csprojResolveAssemblyReference.cache
+C:\Users\marcus.bahia\Desktop\ProjetoModelDDD vII\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.dll
+C:\Users\marcus.bahia\Desktop\ProjetoModelDDD vII\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.pdb

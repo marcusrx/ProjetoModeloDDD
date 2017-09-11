@@ -1,0 +1,21 @@
+c:\users\marcus.bahia\documents\visual studio 2015\Projects\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\ProjetoModeloDDD.Application.dll
+c:\users\marcus.bahia\documents\visual studio 2015\Projects\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\ProjetoModeloDDD.Application.pdb
+c:\users\marcus.bahia\documents\visual studio 2015\Projects\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.csprojResolveAssemblyReference.cache
+c:\users\marcus.bahia\documents\visual studio 2015\Projects\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.dll
+c:\users\marcus.bahia\documents\visual studio 2015\Projects\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.pdb
+C:\Users\marcus.bahia\Documents\Visual Studio 2015\Projects\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\ProjetoModelo.Domain.dll
+C:\Users\marcus.bahia\Documents\Visual Studio 2015\Projects\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\ProjetoModelo.Domain.pdb
+C:\Users\WarleY\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\ProjetoModeloDDD.Application.dll
+C:\Users\WarleY\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\ProjetoModeloDDD.Application.pdb
+C:\Users\WarleY\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\ProjetoModelo.Domain.dll
+C:\Users\WarleY\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\ProjetoModelo.Domain.pdb
+C:\Users\WarleY\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.csprojResolveAssemblyReference.cache
+C:\Users\WarleY\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.dll
+C:\Users\WarleY\Desktop\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.pdb
+C:\Users\marcus.bahia\Desktop\ProjetoModelDDD vII\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\ProjetoModeloDDD.Application.dll
+C:\Users\marcus.bahia\Desktop\ProjetoModelDDD vII\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\ProjetoModeloDDD.Application.pdb
+C:\Users\marcus.bahia\Desktop\ProjetoModelDDD vII\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\ProjetoModelo.Domain.dll
+C:\Users\marcus.bahia\Desktop\ProjetoModelDDD vII\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\ProjetoModelo.Domain.pdb
+C:\Users\marcus.bahia\Desktop\ProjetoModelDDD vII\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.csprojResolveAssemblyReference.cache
+C:\Users\marcus.bahia\Desktop\ProjetoModelDDD vII\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.dll
+C:\Users\marcus.bahia\Desktop\ProjetoModelDDD vII\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.pdb

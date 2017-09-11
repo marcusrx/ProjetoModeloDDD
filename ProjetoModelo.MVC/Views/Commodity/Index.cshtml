@@ -1,0 +1,55 @@
+﻿@model IEnumerable<ProjetoModelo.MVC.ViewModels.CommodityViewModel>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Commodities</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+
+</p>
+<p>
+    @Html.ActionLink("Commodities com Performance", "CommoditiesComPerformance")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Nome)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Descricao)
+        </th>
+        <th>
+            @Html.DisplayName("TipoMaoDeObra")
+        </th>
+        <th>
+            @Html.DisplayName("Disciplina")
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Nome)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Descricao)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TipoMaoDeObra.Descricao)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Disciplina.Nome)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.CommodityID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.CommodityID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.CommodityID })
+        </td>
+    </tr>
+}
+
+</table>

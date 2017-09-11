@@ -1,0 +1,46 @@
+C:\Users\marcus.bahia\Documents\Visual Studio 2015\Projects\ProjetoModeloDDD\GerenciadorDependencia\bin\Debug\GerenciadorDependencia.dll
+C:\Users\marcus.bahia\Documents\Visual Studio 2015\Projects\ProjetoModeloDDD\GerenciadorDependencia\bin\Debug\GerenciadorDependencia.pdb
+C:\Users\marcus.bahia\Documents\Visual Studio 2015\Projects\ProjetoModeloDDD\GerenciadorDependencia\bin\Debug\Ninject.dll
+C:\Users\marcus.bahia\Documents\Visual Studio 2015\Projects\ProjetoModeloDDD\GerenciadorDependencia\bin\Debug\ProjetoModelo.Domain.dll
+C:\Users\marcus.bahia\Documents\Visual Studio 2015\Projects\ProjetoModeloDDD\GerenciadorDependencia\bin\Debug\ProjetoModeloDDD.Application.dll
+C:\Users\marcus.bahia\Documents\Visual Studio 2015\Projects\ProjetoModeloDDD\GerenciadorDependencia\bin\Debug\ProjetoModeloDDD.Infra.Data.dll
+C:\Users\marcus.bahia\Documents\Visual Studio 2015\Projects\ProjetoModeloDDD\GerenciadorDependencia\bin\Debug\EntityFramework.dll
+C:\Users\marcus.bahia\Documents\Visual Studio 2015\Projects\ProjetoModeloDDD\GerenciadorDependencia\bin\Debug\ProjetoModelo.Domain.pdb
+C:\Users\marcus.bahia\Documents\Visual Studio 2015\Projects\ProjetoModeloDDD\GerenciadorDependencia\bin\Debug\ProjetoModeloDDD.Application.pdb
+C:\Users\marcus.bahia\Documents\Visual Studio 2015\Projects\ProjetoModeloDDD\GerenciadorDependencia\bin\Debug\ProjetoModeloDDD.Infra.Data.pdb
+C:\Users\marcus.bahia\Documents\Visual Studio 2015\Projects\ProjetoModeloDDD\GerenciadorDependencia\bin\Debug\Ninject.xml
+C:\Users\marcus.bahia\Documents\Visual Studio 2015\Projects\ProjetoModeloDDD\GerenciadorDependencia\bin\Debug\EntityFramework.xml
+C:\Users\marcus.bahia\Documents\Visual Studio 2015\Projects\ProjetoModeloDDD\GerenciadorDependencia\obj\Debug\GerenciadorDependencia.csprojResolveAssemblyReference.cache
+C:\Users\marcus.bahia\Documents\Visual Studio 2015\Projects\ProjetoModeloDDD\GerenciadorDependencia\obj\Debug\GerenciadorDependencia.dll
+C:\Users\marcus.bahia\Documents\Visual Studio 2015\Projects\ProjetoModeloDDD\GerenciadorDependencia\obj\Debug\GerenciadorDependencia.pdb
+C:\Users\WarleY\Desktop\ProjetoModeloDDD\GerenciadorDependencia\bin\Debug\GerenciadorDependencia.dll
+C:\Users\WarleY\Desktop\ProjetoModeloDDD\GerenciadorDependencia\bin\Debug\GerenciadorDependencia.pdb
+C:\Users\WarleY\Desktop\ProjetoModeloDDD\GerenciadorDependencia\bin\Debug\Ninject.dll
+C:\Users\WarleY\Desktop\ProjetoModeloDDD\GerenciadorDependencia\bin\Debug\ProjetoModelo.Domain.dll
+C:\Users\WarleY\Desktop\ProjetoModeloDDD\GerenciadorDependencia\bin\Debug\ProjetoModeloDDD.Application.dll
+C:\Users\WarleY\Desktop\ProjetoModeloDDD\GerenciadorDependencia\bin\Debug\ProjetoModeloDDD.Infra.Data.dll
+C:\Users\WarleY\Desktop\ProjetoModeloDDD\GerenciadorDependencia\bin\Debug\EntityFramework.dll
+C:\Users\WarleY\Desktop\ProjetoModeloDDD\GerenciadorDependencia\bin\Debug\ProjetoModelo.Domain.pdb
+C:\Users\WarleY\Desktop\ProjetoModeloDDD\GerenciadorDependencia\bin\Debug\ProjetoModeloDDD.Application.pdb
+C:\Users\WarleY\Desktop\ProjetoModeloDDD\GerenciadorDependencia\bin\Debug\ProjetoModeloDDD.Infra.Data.pdb
+C:\Users\WarleY\Desktop\ProjetoModeloDDD\GerenciadorDependencia\bin\Debug\ProjetoModeloDDD.Infra.Data.dll.config
+C:\Users\WarleY\Desktop\ProjetoModeloDDD\GerenciadorDependencia\bin\Debug\Ninject.xml
+C:\Users\WarleY\Desktop\ProjetoModeloDDD\GerenciadorDependencia\bin\Debug\EntityFramework.xml
+C:\Users\WarleY\Desktop\ProjetoModeloDDD\GerenciadorDependencia\obj\Debug\GerenciadorDependencia.csprojResolveAssemblyReference.cache
+C:\Users\WarleY\Desktop\ProjetoModeloDDD\GerenciadorDependencia\obj\Debug\GerenciadorDependencia.dll
+C:\Users\WarleY\Desktop\ProjetoModeloDDD\GerenciadorDependencia\obj\Debug\GerenciadorDependencia.pdb
+C:\Users\marcus.bahia\Desktop\ProjetoModelDDD vII\ProjetoModeloDDD\GerenciadorDependencia\bin\Debug\GerenciadorDependencia.dll
+C:\Users\marcus.bahia\Desktop\ProjetoModelDDD vII\ProjetoModeloDDD\GerenciadorDependencia\bin\Debug\GerenciadorDependencia.pdb
+C:\Users\marcus.bahia\Desktop\ProjetoModelDDD vII\ProjetoModeloDDD\GerenciadorDependencia\bin\Debug\Ninject.dll
+C:\Users\marcus.bahia\Desktop\ProjetoModelDDD vII\ProjetoModeloDDD\GerenciadorDependencia\bin\Debug\ProjetoModelo.Domain.dll
+C:\Users\marcus.bahia\Desktop\ProjetoModelDDD vII\ProjetoModeloDDD\GerenciadorDependencia\bin\Debug\ProjetoModeloDDD.Application.dll
+C:\Users\marcus.bahia\Desktop\ProjetoModelDDD vII\ProjetoModeloDDD\GerenciadorDependencia\bin\Debug\ProjetoModeloDDD.Infra.Data.dll
+C:\Users\marcus.bahia\Desktop\ProjetoModelDDD vII\ProjetoModeloDDD\GerenciadorDependencia\bin\Debug\EntityFramework.dll
+C:\Users\marcus.bahia\Desktop\ProjetoModelDDD vII\ProjetoModeloDDD\GerenciadorDependencia\bin\Debug\ProjetoModelo.Domain.pdb
+C:\Users\marcus.bahia\Desktop\ProjetoModelDDD vII\ProjetoModeloDDD\GerenciadorDependencia\bin\Debug\ProjetoModeloDDD.Application.pdb
+C:\Users\marcus.bahia\Desktop\ProjetoModelDDD vII\ProjetoModeloDDD\GerenciadorDependencia\bin\Debug\ProjetoModeloDDD.Infra.Data.pdb
+C:\Users\marcus.bahia\Desktop\ProjetoModelDDD vII\ProjetoModeloDDD\GerenciadorDependencia\bin\Debug\Ninject.xml
+C:\Users\marcus.bahia\Desktop\ProjetoModelDDD vII\ProjetoModeloDDD\GerenciadorDependencia\bin\Debug\EntityFramework.xml
+C:\Users\marcus.bahia\Desktop\ProjetoModelDDD vII\ProjetoModeloDDD\GerenciadorDependencia\obj\Debug\GerenciadorDependencia.csprojResolveAssemblyReference.cache
+C:\Users\marcus.bahia\Desktop\ProjetoModelDDD vII\ProjetoModeloDDD\GerenciadorDependencia\obj\Debug\GerenciadorDependencia.dll
+C:\Users\marcus.bahia\Desktop\ProjetoModelDDD vII\ProjetoModeloDDD\GerenciadorDependencia\obj\Debug\GerenciadorDependencia.pdb

@@ -1,0 +1,13 @@
+C:\Users\marcus.bahia\Documents\Visual Studio 2015\Projects\ProjetoModeloDDD\ProjetoModelo.Presentation.GerenciadorDependencia\bin\Debug\ProjetoModelo.Presentation.GerenciadorDependencia.dll
+C:\Users\marcus.bahia\Documents\Visual Studio 2015\Projects\ProjetoModeloDDD\ProjetoModelo.Presentation.GerenciadorDependencia\bin\Debug\ProjetoModelo.Presentation.GerenciadorDependencia.pdb
+C:\Users\marcus.bahia\Documents\Visual Studio 2015\Projects\ProjetoModeloDDD\ProjetoModelo.Presentation.GerenciadorDependencia\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\marcus.bahia\Documents\Visual Studio 2015\Projects\ProjetoModeloDDD\ProjetoModelo.Presentation.GerenciadorDependencia\bin\Debug\Ninject.dll
+C:\Users\marcus.bahia\Documents\Visual Studio 2015\Projects\ProjetoModeloDDD\ProjetoModelo.Presentation.GerenciadorDependencia\bin\Debug\Ninject.Web.Common.dll
+C:\Users\marcus.bahia\Documents\Visual Studio 2015\Projects\ProjetoModeloDDD\ProjetoModelo.Presentation.GerenciadorDependencia\bin\Debug\Ninject.Web.Mvc.dll
+C:\Users\marcus.bahia\Documents\Visual Studio 2015\Projects\ProjetoModeloDDD\ProjetoModelo.Presentation.GerenciadorDependencia\bin\Debug\WebActivatorEx.dll
+C:\Users\marcus.bahia\Documents\Visual Studio 2015\Projects\ProjetoModeloDDD\ProjetoModelo.Presentation.GerenciadorDependencia\bin\Debug\Ninject.xml
+C:\Users\marcus.bahia\Documents\Visual Studio 2015\Projects\ProjetoModeloDDD\ProjetoModelo.Presentation.GerenciadorDependencia\bin\Debug\Ninject.Web.Common.xml
+C:\Users\marcus.bahia\Documents\Visual Studio 2015\Projects\ProjetoModeloDDD\ProjetoModelo.Presentation.GerenciadorDependencia\bin\Debug\Ninject.Web.Mvc.xml
+C:\Users\marcus.bahia\Documents\Visual Studio 2015\Projects\ProjetoModeloDDD\ProjetoModelo.Presentation.GerenciadorDependencia\obj\Debug\ProjetoModelo.Presentation.GerenciadorDependencia.csprojResolveAssemblyReference.cache
+C:\Users\marcus.bahia\Documents\Visual Studio 2015\Projects\ProjetoModeloDDD\ProjetoModelo.Presentation.GerenciadorDependencia\obj\Debug\ProjetoModelo.Presentation.GerenciadorDependencia.dll
+C:\Users\marcus.bahia\Documents\Visual Studio 2015\Projects\ProjetoModeloDDD\ProjetoModelo.Presentation.GerenciadorDependencia\obj\Debug\ProjetoModelo.Presentation.GerenciadorDependencia.pdb
